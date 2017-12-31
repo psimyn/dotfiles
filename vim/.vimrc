@@ -16,6 +16,8 @@ Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline' | Plug 'vim-airline/vim-airline-themes'
 " Quoting/Parenthesizing  made simple
 Plug 'tpope/vim-surround'
+" Auto-color for parens
+Plug 'luochen1990/rainbow'
 " Git wrapper
 Plug 'tpope/vim-fugitive'
 " Vim commentary
